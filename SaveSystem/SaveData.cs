@@ -28,6 +28,6 @@ public class SaveData
 
 
     //Data i wish to save
-    public List<ObjectData> objects = new List<ObjectData>();
+    public List<ObjectData> objects = new List<ObjectData>(); // Example class
 
 }
